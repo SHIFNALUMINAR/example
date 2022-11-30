@@ -1,0 +1,17 @@
+git and github
+---------------
+
+version control manager
+
+git operations
+
+-push -upload newproject and new updations -  local repo to remote repo
+-clone- exact copy of project - remote repo to local repo
+-pull -new updations - remote repo to local repo
+
+push
+----
+-add
+-commit
+
+
